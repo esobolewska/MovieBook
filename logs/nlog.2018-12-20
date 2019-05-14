@@ -1,0 +1,4 @@
+2018-12-20 21:38:05,771 INFO     None GET http://localhost:6969/choose 127.0.0.1
+2018-12-20 21:38:05,777 INFO     False GET http://localhost:6969/login 127.0.0.1
+2018-12-20 21:38:15,866 INFO     ewelina POST http://localhost:6969/login 127.0.0.1
+2018-12-20 21:40:43,880 INFO     False GET http://localhost:6969/login 127.0.0.1

@@ -1,0 +1,4 @@
+2018-12-12 10:33:56,022 INFO     None GET http://localhost:6969/choose 127.0.0.1
+2018-12-12 10:33:56,040 INFO     False GET http://localhost:6969/login 127.0.0.1
+2018-12-12 10:37:58,666 INFO     None GET http://localhost:6969/choose 127.0.0.1
+2018-12-12 10:37:58,683 INFO     False GET http://localhost:6969/login 127.0.0.1
